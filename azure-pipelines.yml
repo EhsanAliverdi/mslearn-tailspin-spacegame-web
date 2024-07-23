@@ -3,6 +3,7 @@
 # Add steps that run test, create a Nuget package, deply, and:more
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
 
+
 trigger:
 - '*'
 
